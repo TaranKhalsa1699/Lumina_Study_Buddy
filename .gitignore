@@ -18,6 +18,7 @@ Thumbs.db
 # PDF and text files (to avoid uploading user study data)
 *.pdf
 *.txt
+!requirements.txt
 *.csv
 
 # Sensitive data

@@ -1,0 +1,24 @@
+# Python dependencies
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints
+
+# PDF and text files (to avoid uploading user study data)
+*.pdf
+*.txt
+*.csv
+
+# Sensitive data
+secrets.toml

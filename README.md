@@ -1,3 +1,13 @@
+---
+title: Lumina AI Study Buddy
+emoji: 🎓
+colorFrom: indigo
+colorTo: blue
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
+
 # Lumina: Your AI-Powered Study Buddy 🎓
 
 Lumina is a premium AI study assistant designed to help students master complex topics, summarize daunting study notes, and test their knowledge effectively.
